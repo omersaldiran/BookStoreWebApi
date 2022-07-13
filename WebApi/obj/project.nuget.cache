@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L0vWOj2MmjRwZpjaSfjJ91NbmCNB4Bjm2llDSkVADk4R2TGgc4mDSnn6ftLY+WUkJCOiMzIWX1CbAe4Epd73/A==",
+  "dgSpecHash": "sKSUfPgp7jxgvYbH/mlbm2X39jPxpr7mwRgICOH2F7G0y59oXrQokfn0nhZaoEbPQ8sE978iWzbpFn2kQO9DmQ==",
   "success": true,
   "projectFilePath": "/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/omersaldiran/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.7.0.0-preview.5.22302.2.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.abstractions.7.0.0-preview.5.22302.2.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.analyzers.7.0.0-preview.5.22302.2.nupkg.sha512",
