@@ -25,3 +25,14 @@
 /Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/obj/Debug/net6.0/WebApi.pdb
 /Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
 /Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll

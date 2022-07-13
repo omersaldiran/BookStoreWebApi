@@ -1,15 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "IVeFloJ/BNmAjaPEeZ2RfM5zkxzlV9dXkLa2op6YN1l0Nv5/ZWwnBX7iZ9uFEIarjPM9FXaDIz2rESDRg5N2mg==",
+  "dgSpecHash": "L0vWOj2MmjRwZpjaSfjJ91NbmCNB4Bjm2llDSkVADk4R2TGgc4mDSnn6ftLY+WUkJCOiMzIWX1CbAe4Epd73/A==",
   "success": true,
   "projectFilePath": "/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.abstractions.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.analyzers.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.inmemory.7.0.0-preview.5.22302.2.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-preview.5.22301.12/microsoft.extensions.caching.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-preview.5.22301.12/microsoft.extensions.caching.memory.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.5.22301.12/microsoft.extensions.dependencyinjection.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.5.22301.12/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.logging/7.0.0-preview.5.22301.12/microsoft.extensions.logging.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-preview.5.22301.12/microsoft.extensions.logging.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.options/7.0.0-preview.5.22301.12/microsoft.extensions.options.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.5.22301.12/microsoft.extensions.primitives.7.0.0-preview.5.22301.12.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
