@@ -1,6 +1,6 @@
 using AutoMapper;
 using WebApi.BookOperations.GetBookDetail;
-using static WebApi.CreateBook.CreateBookCommand;
+using static WebApi.BookOperations.CreateBook.CreateBookCommand;
 
 namespace WebApi.Common
 {

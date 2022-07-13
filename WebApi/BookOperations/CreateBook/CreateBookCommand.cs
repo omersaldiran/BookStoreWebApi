@@ -1,7 +1,7 @@
 using AutoMapper;
 using WebApi.DBOperations;
 
-namespace WebApi.CreateBook{
+namespace WebApi.BookOperations.CreateBook{
 public class CreateBookCommand{
 
     public CreateBookModel Model {get; set;}
@@ -18,12 +18,7 @@ public class CreateBookCommand{
             if(book is not null){
                 throw new InvalidOperationException("Kitap zaten mevcut");
             }
-            book = _mapper.Map<Book>(Model);//new Book();
-            // book.Title = Model.Title;
-            // book.PageCount = Model.PageCount;
-            // book.PublishDate = Model.PublishDate;
-            // book.GenreId = Model.GenreId;
-
+            book = _mapper.Map<Book>(Model);
             _dbContext.Books.Add(book);
             _dbContext.SaveChanges();
     }
