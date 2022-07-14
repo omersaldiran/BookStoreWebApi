@@ -34,9 +34,11 @@ namespace WebApi.AddControllers{
         public IActionResult GetById(int id){
             BookDetailViewModel result;
             GetBookDetailQuery query = new GetBookDetailQuery(_context,_mapper);
+            GetBookDetailQueryValidator validator = new GetBookDetailQueryValidator();
             try
             {   
                 query.BookId = id;
+                validator.ValidateAndThrow(query);
                 result = query.Handle();
             }
             catch (Exception ex)
