@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using WebApi.DBOperations;
 using WebApi;
 using AutoMapper;
+using WebApi.Entities;
 
+namespace WebApi.Application.BookOperations.Queries.GetBooks;
 public class GetBooksQuery{
     private readonly BookStoreDbContext _dbContext;
     private readonly IMapper _mapper;

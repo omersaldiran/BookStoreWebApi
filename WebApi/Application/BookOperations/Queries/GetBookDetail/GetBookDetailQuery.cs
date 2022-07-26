@@ -2,7 +2,7 @@ using WebApi.DBOperations;
 using WebApi;
 using AutoMapper;
 
-namespace WebApi.BookOperations.GetBookDetail
+namespace WebApi.Application.BookOperations.Queries.GetBookDetail
 {
     public class GetBookDetailQuery{
             private readonly BookStoreDbContext _dbContext;
