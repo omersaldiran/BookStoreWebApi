@@ -6,11 +6,11 @@
 - Auto Mapper
 
 ## Hedeflenen ve Yapılanlar
-.Net ile Web api geliştirildi
-Controller içinde CRUD işlemleri yapıldı
-FluentValidator ile validasyon işlemleri yapıldı
-AutoMapper kullanılarak Mapping işlemleri yapıldı
-Swagger ile testleri yapıldı
+- .Net ile Web api geliştirildi
+- Controller içinde CRUD işlemleri yapıldı
+- FluentValidator ile validasyon işlemleri yapıldı
+- AutoMapper kullanılarak Mapping işlemleri yapıldı
+- Swagger ile testleri yapıldı
 
 ## Entityler
 - Book
