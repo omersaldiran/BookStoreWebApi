@@ -18,4 +18,4 @@ Swagger ile testleri yapıldı
 - Genre
 
 ## Swagger UI
-![alt text][https://im.ge/i/FPw3kT]
+[![SwaggerUI](https://i.im.ge/2022/08/01/FPw3kT.Ekran-Resmi-2022-07-31-21-43-33.png)](https://im.ge/i/FPw3kT)
