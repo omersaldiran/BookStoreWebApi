@@ -8,12 +8,13 @@ using WebApi.Application.GenreOperations.Queries.GetGenreDetail;
 using WebApi.Application.GenreOperations.Queries.GetGenres;
 using WebApi.Entities;
 using static WebApi.Application.BookOperations.Commands.CreateBook.CreateBookCommand;
+using static WebApi.Application.UserOperations.Commands.CreateUser.CreateUserCommand;
 
 namespace WebApi.Common
 {
     public class MappingProfile : Profile{
         public MappingProfile(){
-            CreateMap<CreateBookModel, Book>();
+            CreateMap<CreateBookModel,Book>();
             CreateMap<Book,BookDetailViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
             CreateMap<Book,BooksViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
             CreateMap<Genre,GenresViewModel>();
@@ -21,6 +22,7 @@ namespace WebApi.Common
             CreateMap<Author,AuthorsViewModel>();
             CreateMap<Author,AuthorDetailViewModel>();
             CreateMap<CreateAuthorModel,Author>();
+            CreateMap<CreateUserModel,User>();
         }
     }
 }

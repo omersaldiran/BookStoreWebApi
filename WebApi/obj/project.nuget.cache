@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "R/LvVukBI7uk6/cxEBGDGfmYA5bStxKWqtypsqqffYimUXdDoqy5mDeb1UgtPGKQ+qDQJ4LSh16kY2dVp9bFBA==",
+  "dgSpecHash": "eiByAvEduHPrB0dIPOU/uhLJ3xcVMaL1KLmbCQ8N7C3TYpWNxM/9/C5C1FCLMRZR9TZAW5oadvqpsdYb8Izd1A==",
   "success": true,
   "projectFilePath": "/Users/omersaldiran/Documents/Dotnet/BookStore/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/omersaldiran/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.7/microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.7.0.0-preview.5.22302.2.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.5.22302.2/microsoft.entityframeworkcore.abstractions.7.0.0-preview.5.22302.2.nupkg.sha512",
@@ -21,13 +22,20 @@
     "/Users/omersaldiran/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-preview.5.22301.12/microsoft.extensions.logging.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.extensions.options/7.0.0-preview.5.22301.12/microsoft.extensions.options.7.0.0-preview.5.22301.12.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.5.22301.12/microsoft.extensions.primitives.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "/Users/omersaldiran/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "/Users/omersaldiran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/omersaldiran/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
